@@ -1,0 +1,1 @@
+one image for Favicon and one is used in the html
